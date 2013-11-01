@@ -1,7 +1,7 @@
-High-Performance-Browser-Networking
+高性能浏览器网络
 ===================================
 
-	这里整理的是一群小伙伴们对《High Performance Browser Networking》的学习笔记.
+> 这里整理的是一群小伙伴们对《High Performance Browser Networking》的学习笔记.
 	
 
 ### 第8章 优化移动网络
